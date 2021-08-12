@@ -1,0 +1,28 @@
+body{
+    background-color:lavender;
+}
+.header{
+    background-color: greenyellow;
+    height: 100px;
+}
+.principal {
+    margin-top: 20px;
+}
+.main {
+    background-color: white;
+}
+.aside{
+    background-color: lightgray;
+    height: 200px;
+}
+.section {
+    background-color: #14ACF7;
+    color: white;
+    margin-top: 20px;
+}
+.footer {
+    background-color: black;
+    height: 100px;
+    color: white;
+    margin-top: 20px;
+}
